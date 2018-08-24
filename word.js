@@ -1,6 +1,8 @@
 var Letter = require("./letter.js");
+// var displayArr;
 
 function Word(currentWord){
+    // this.displayArr = displayArr;
     this.currentWord = currentWord;
     this.letters = [];
 
@@ -12,7 +14,7 @@ function Word(currentWord){
         }
     }
     this.display = function(){
-        var displayArr = [];
+        displayArr = [];
         for (var i =0; i < this.letters.length; i++){
             var result = this.letters[i].letterGuessed();
             displayArr.push(result);

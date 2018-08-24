@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/brittani1128/constructor-word-guess#readme",
   "dependencies": {
+    "chalk": "^2.4.1",
     "inquirer": "^6.2.0"
   }
 }
