@@ -1,4 +1,4 @@
-# CLI WORD GAME
+# WORD GUESS GAME - CLI
 
 A word guess game you can play in your terminal
 
