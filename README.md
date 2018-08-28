@@ -4,9 +4,11 @@ A word guess game you can play in your terminal
 
 ## Installation
 
-``git clone https://github.com/brittani1128/constructor-word-guess.git
-cd constructor-word-guess
-npm install``
+``git clone https://github.com/brittani1128/constructor-word-guess.git   
+
+cd constructor-word-guess   
+
+npm install  ``
 
 ## How to Play
 
